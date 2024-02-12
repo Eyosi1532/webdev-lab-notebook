@@ -8,3 +8,8 @@ for this exercies, I used the videos to complite it. I found this exerise very h
 ### Accessibility
 
 Enter your reflections on this section here.
+In this exercise, I complited it without the video. I used what I learned from section one(HTML). This exercise helped me learn more about accessability. using only the proper syntax in not enough to make our website great, we also need to make sure that it is usable by evertyone and every device.
+
+### CSS Fundamentals And Layout
+
+for this exercise, I used the videos to complete it. I relized how CSS is very imporant for building a website. It plays a vital role in giving life to the HTML structure by controlling the presentation and layout of web pages. eventho I am new for CSS, homework 1 helped me to learn this exercise a little better
