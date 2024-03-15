@@ -17,3 +17,5 @@ for this exercise, I used the videos to complete it. I relized how CSS is very i
 ### Flexbox
 
 for this exercise, I used the videos to complete it. through these videos, I gained knowledge about flexbox layout and technizues for manipulating the arrangement of elements within a container. for instance, I learned methods for reversing the oder of dispaly, adjusting the dimensions of individual elements within the flexbox to achieve various visual effects, and arranging elements either horizontally or vertically in rows or columns.
+
+### Javascript
